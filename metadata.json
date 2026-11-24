@@ -1,0 +1,6 @@
+{
+  "name": "PayPilot",
+  "description": "AI-powered invoice and payment management with PayPal Sandbox integration, automated drafting, intelligent financial insights, and verified settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
